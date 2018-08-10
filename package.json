@@ -3,11 +3,19 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "start": "node src/index.js"
+        "start": "tsc --watch & node dist/index.js"
     },
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "express": "^4.16.3"
+        "@types/faker": "^4.1.2",
+        "cors": "^2.8.4",
+        "express": "^4.16.3",
+        "faker": "^4.1.0",
+        "typescript": "^3.0.1"
+    },
+    "dependencies": {
+        "@types/es6-shim": "^0.31.37",
+        "@types/express": "^4.16.0"
     }
 }
