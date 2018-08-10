@@ -9,4 +9,4 @@ const getData = (amount) => {
         };
     });
 };
-export const data = getData(2);
+export const data = getData(100);
