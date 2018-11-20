@@ -18,6 +18,4 @@ Run:
 npm start
 ```
 
-It'll start you'r express server at http://localhost:3000
-
-See [./src/index.ts](./src/index.ts) for available REST paths
+It'll start simple REST available database at at http://localhost:3000
