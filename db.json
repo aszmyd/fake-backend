@@ -1,6 +1,16 @@
 {
-    "3271e8d8-6d81-478e-b6c1-3191d2fb3a1a": {
-        "channel": "3271e8d8-6d81-478e-b6c1-3191d2fb3a1a",
-        "combined": true
-    }
+    "numbers": [
+        {
+            "id": "123",
+            "number": "+4555555555",
+            "start": null,
+            "end": null
+        },
+        {
+            "id": "456",
+            "number": "+66545",
+            "start": null,
+            "end": null
+        }
+    ]
 }
